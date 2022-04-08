@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-business-card-example/static/css/main.81b4af9e.css",
+    "main.js": "/digital-business-card-example/static/js/main.79d859d3.js",
+    "index.html": "/digital-business-card-example/index.html",
+    "main.81b4af9e.css.map": "/digital-business-card-example/static/css/main.81b4af9e.css.map",
+    "main.79d859d3.js.map": "/digital-business-card-example/static/js/main.79d859d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81b4af9e.css",
+    "static/js/main.79d859d3.js"
+  ]
+}
