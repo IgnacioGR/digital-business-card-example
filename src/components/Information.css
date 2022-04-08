@@ -1,0 +1,12 @@
+.Information {
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+p {
+	font-size: 0.8em;
+	opacity: 0.8;
+	margin-top: 5px;
+}

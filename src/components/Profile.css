@@ -1,0 +1,35 @@
+.Profile {
+	text-align: center;
+}
+
+h3 {
+	font-size: 1.8em;
+	font-weight: 700;
+	margin-top: 10px;
+}
+
+h5 {
+	font-family: "Grape Nuts", cursive;
+	font-size: 1.1em;
+	margin-top: -3px;
+	color: aqua;
+}
+
+.webpage {
+	margin: 5px 0 15px 0;
+	font-size: 0.8em;
+}
+
+.button-section {
+	display: flex;
+	justify-content: center;
+}
+
+.button-section button {
+	margin: 0 10px;
+}
+
+.button-section button:last-child {
+	background-color: #0e76a8;
+	color: white;
+}
